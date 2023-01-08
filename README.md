@@ -13,22 +13,27 @@ I am passionate about mental health, physical health, mentoring, coaching, and h
 ## Skills
 While my more recent projects have been focused on the MERN stack, here is a comprehensive list of the skills I gained:
 
-- React
+- React.js
 - Javascript
 - Express
 - MongoDB
-- Socket.Io
+- Mongoose
+- Authentication/Authorization using JSON Webtokens
+- Socket.IO
 - Python
 - Flask
 - MySQL
-- Ajax
+- AJAX
+- API
 - HTML
 - CSS (Bootstrap, Material UI, TailWindCSS)
+- Git
+- Github
 
 
 
 ## Contact
-jomelb.developer@gmail.com
+jomelgbautista@gmail.com
 
 <!--
 **jomelbautista/jomelbautista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
