@@ -4,8 +4,8 @@ I am an aspiring tech developer.
 
 I recently received my Full-Stack Developer Certificate from Coding Bootcamp after completing projects/assignments including the following technology stacks:
 
-- MongoDB, Express, React, Node
-- Python, Flask, MySQL, Ajax
+- MongoDB, Express, React.js, Node.js
+- Python, Flask, MySQL, AJAX
 
 My career journey started as a Civil Engineer with both design and project management experience.
 
