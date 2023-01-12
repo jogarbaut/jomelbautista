@@ -12,7 +12,7 @@ To gain skills in tech, I began by taking computer science courses at local coll
 - Python, Flask, MySQL, AJAX
 
 ## Portfolio Website
-[jomelgbautista@gmail.com](https://jomelb.com/)
+[https://jomelb.com/(https://jomelb.com/)
 
 ## Skills
 While my more recent projects have been focused on the MERN stack, here is a comprehensive list of the skills I gained:
