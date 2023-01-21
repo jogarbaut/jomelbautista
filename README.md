@@ -1,12 +1,8 @@
 # Hello, I'm Jomel.
 
-I am an aspiring tech developer.
+I am a full-stack developer with a focus on the MERN Stack and the React Front-End Framework.
 
-My early career journey started in civil engineering where I dedicated years to designing, building, and retrofitting aging infrastructure to ensure safe drinking water. 
-
-Though this experience was meaningful to me, I wanted to expand my skill set to diversify the projects and problems that teams in the tech industry have the opportunity to address. 
-
-To gain skills in tech, I began by taking computer science courses at local colleges through their continuing education programs in the evenings. This led me to enrolling in and completing a coding boot camp to receive a Full-Stack Developer certificate. Through my learnings, I have gained tech skills in the following technology stacks:
+I have skills in the following technology stacks:
 
 - MongoDB, Express, React.js, Node.js
 - Python, Flask, MySQL, AJAX
@@ -15,7 +11,7 @@ To gain skills in tech, I began by taking computer science courses at local coll
 https://jomelb.com/
 
 ## Skills
-While my more recent projects have been focused on the MERN stack, here is a comprehensive list of the skills I gained:
+While my more recent projects have been focused on the MERN Stack and React, here is a comprehensive list of the skills I gained:
 
 - JavaScript
 - Python
@@ -36,7 +32,6 @@ While my more recent projects have been focused on the MERN stack, here is a com
 - Jinja
 - Git
 - Github
-- Webpack
 - AJAX
 - API 
 - JSON Webtokens
