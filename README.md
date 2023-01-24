@@ -13,7 +13,7 @@ https://jomelb.com/
 ## Skills
 While my more recent projects have been focused on the MERN Stack and React, here is a comprehensive list of the skills I gained:
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,react,redux,jquery,bootstrap,tailwind,mongodb,nodejs,express,flask,mysql,nginx,git,github,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,html,react,redux,nextjs,jquery,css,bootstrap,tailwind,mongodb,nodejs,express,flask,mysql,nginx,git,github,&perline=6)](https://skillicons.dev)
 
 ## Contact
 jomelgbautista@gmail.com
